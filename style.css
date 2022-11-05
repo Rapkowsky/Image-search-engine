@@ -86,3 +86,12 @@ header h2 {
 	transform: scale(1.3);
 	filter: brightness(110%);
 }
+.gallery-info {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	color: var(--color-gray);
+}
+.gallery-info a {
+	color: var(--color-gray);
+}
